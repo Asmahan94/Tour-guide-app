@@ -41,7 +41,7 @@ public class MallFragment extends Fragment {
 
 
         final String[] versions = {getString(R.string.mall1), getString(R.string.mall2), getString(R.string.mall3), getString(R.string.mall4)};
-        final String[] details = {getString(R.string.Location_mall1), getString(R.string.Location_mall2), getString(R.string.Location_mall3),getString(R.string.Location_mall4)};
+        final String[] details = {getString(R.string.Location_mall1), getString(R.string.Location_mall2), getString(R.string.Location_mall3), getString(R.string.Location_mall4)};
 
         final int[] icons = {R.drawable.mall1
                 , R.drawable.mall2, R.drawable.mall3, R.drawable.mall5};

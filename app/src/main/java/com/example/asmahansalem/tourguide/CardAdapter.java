@@ -22,7 +22,7 @@ public class CardAdapter extends RecyclerView.Adapter<CardAdapter.ViewHolder> {
      **/
 
 
-    private  ArrayList<FeedProperties> dataSet;
+    private ArrayList<FeedProperties> dataSet;
 
     public CardAdapter(ArrayList<FeedProperties> os_versions) {
 
