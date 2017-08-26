@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <!--cardView -->
+    <string name="name">Name</string>
+    <string name="riyadh">Riyadh City</string>
+    <string name="description">Description</string>
+   <string name="resturant">Resturant</string>
+    <string name="mall">Mall</string>
+    <string name="hotels">Hotels</string>
+    <string name="historcal">Historcal</string>
+
+
+    <!--  Resturant   -->
+    <string name="resturant1"> Circle Cafe</string>
+    <string name="resturant2">LETO Cafe</string>
+    <string name="resturant3">KARAK GHOLAM </string>
+    <string name="resturant4">Operation: Falafel</string>
+    <string name="resturant5">Sultans Steakhouse </string>
+    <string name="resturant6">The Mansion Lounge </string>
+    <string name="resturant7">Cipriani </string>
+    <!--Location Resturant -->
+    <string name="Location_resturant1"> Location: Riyadh Boulevard, Hitten district Soft opening working hours: 12:30 pm - 12 am</string>
+    <string name="Location_resturant2">Location: Fiirenza la piazza, Takhasussi street</string>
+    <string name="Location_resturant3"> Location: The Boulevard Riyadh, exit 2, Hiteen</string>
+    <string name="Location_resturant4"> Location: Rubeen Plaza, Northern Ring Branch Road, Hittin</string>
+    <string name="Location_resturant5"> Location: the Boulevard, Hitten district</string>
+    <string name="Location_resturant6"> Location: Tahliya street, between king fahad road , takhassusi street</string>
+    <string name="Location_resturant7"> Location: Pince Turki alawal Rd, Hitten District</string>
+    <!--  Mall   -->
+    <string name="mall1">The Boulevard Riyadh</string>
+    <string name="mall2">Riyadh Gallery Mall</string>
+    <string name="mall3">AlNkheel Mall</string>
+    <string name="mall4">Panorama Mall</string>
+    <!--Location Mall -->
+    <string name="Location_mall1"> The Boulevard is located on Prince Turki Bin Abdul Aziz Al Awwal Street in Hittin district north of Riyadh City.</string>
+    <string name="Location_mall2">Location: King Fahd, 262, Riyadh 12262. Open 9 am - 12 am. </string>
+    <string name="Location_mall3">Location: 2976 Al lmam Saud lbn Abdul Aziz Branch Rd, Al Mughrizat, Riyadh 12483.</string>
+    <string name="Location_mall4"> Location: 6526 takhassusi, AlMaathar Ash Shamali, Riyadh 12332</string>
+    <!--  Hotels   -->
+    <string name="Hotel1">BURJ RAFAL HOTEL KEMPINSKI RIYADH</string>
+    <string name="Hotel2">Hyatt Regency Riyadh</string>
+    <string name="Hotel3">The Ritz-Carlton</string>
+    <string name="Hotel4">Narcissus Hotel and Residence </string>
+    <!--Location Hotel -->
+    <string name="Location_Hotel1">Location: Burj Rafal Hotel Kempinski Riyadh, King Fahad Road 7647, 13315 2174 Riyadh,ksa</string>
+    <string name="Location_Hotel2">Location: Al Olaya, Olaya St, Riyadh 11433</string>
+    <string name="Location_Hotel3">Location: AlHada Area, Mekkah Road, Riyadh 11493</string>
+    <string name="Location_Hotel4">Location: Olaya Street, corner of Tahlia Streets, Al Olaya, 11351 Riyadh, Saudi Arabia</string>
+    <!--  Historcal   -->
+    <string name="Historcal1">king Abdulaziz Historical Centre</string>
+    <string name="Historcal2">The National Museum</string>
+    <string name="Historcal3">Morbaa Historical Palace</string>
+    <string name="Historcal4">Al Safa Square</string>
+    <string name="Historcal5">Al Masmak Fortress</string>
+    <!--Location Historcal -->
+    <string name="Location_Historcal1">Location: King Faisal Road, Al Murabba, Riyadh 12631</string>
+    <string name="Location_Historcal2">Location: Al Murabba, king Abdul Aziz, Historical Center, Riyadh 12631 11481</string>
+    <string name="Location_Historcal3">Location: Al Murabba, Riyadh 12631, King Saud 2722.</string>
+    <string name="Location_Historcal4">Location: Al Thumairi Street Al Thumairi St, Ad Dirah, Riyadh 12634.</string>
+    <string name="Location_Historcal5">Location: Al lmam Turki lbn Abdullah lbn Muhammad, Ad Dirah Riyadh 12652.</string>
+</resources>
